@@ -34,6 +34,9 @@
 						</header>
 						<p>Naci en el estado de HIDALGO el 4 de julio del año 2002<br>
 						Actualmente estoy viviendo en el estado de mexico Teotihuacan <br>
+						Actualmente tengo 19 años <br>
+						Estoy estudiando la carrera ing. en software en la <br>
+						Universidad Politecnica de tecamac <br>
 
 
 						</p>
